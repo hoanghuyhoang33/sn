@@ -1,18 +1,19 @@
 const CONFIG = {
     introTitle: 'cậu ah!',
-    introDesc: `Happy ღ Birthday
-    °Sinh °Nhật＊vui vẻ
-    thằng bạn thân `,
-    btnIntro: '💙chào chàng trai tháng 6💙 ',
-    title: 'Chúc cậu sinh nhật đầy ấm áp, yêu thương và tiếng cười ',
-    desc: 'Tình bạn mãi mãi như ngôi sao lấp lánh trên bầu trời ',
-    btnYes: 'không đòi quà đâu <33 ',
-    btnNo: 'quà nè 🤣🤣🤣 :3',
-    question: 'trên thế giới hơn 7 tỉ người mà sao cậu lại sinh ngày 6-6 <333 ',
-    btnReply: 'Sending love to you <333',
-    reply: ' Mặc dù chúng ta có cách xa nhau nhưng mình luôn ở gần bên cậu mỗi khi cậu cần <3💞 ',
-    mess: 'Chúc sinh nhật vui vẻ và hạnh phúc cậu yêu quý!!! ☺😘😘 ',
-    messDesc: 'tuổi mới sinh nhật vui vẻ hạnh phúc cùng gia đình nhé. ',
-    btnAccept: '19 tuổi 🥰 ',
-    messLink: 'https://www.facebook.com/profile.php?id=100068054562491',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: '💙chào cậu💙',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙💚',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Still like you <33',
+    btnNo: 'No, you ah :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <333',
+    btnReply: 'Sending love to you <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <3💞',
+    mess: 'tôi biết mà , yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Tối nay tôi qua đón cậu đi chơi nhé.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100014271273512',
 }
