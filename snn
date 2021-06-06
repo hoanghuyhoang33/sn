@@ -4,11 +4,7 @@ const CONFIG = {
     °Sinh °Nhật＊vui vẻ
     thằng bạn thân `,
     btnIntro: '💙chào chàng trai tháng 6💙 ',
-    title: 'Chúc cậu
-    Sinh nhật đầy ấm áp, yêu
-    thương và tiếng cười, thêm
-    tuổi, thêm hạnh phúc, thêm
-    nhiều niềm zui nhé^^ 😙💚 ',
+    title: 'Chúc cậu sinh nhật đầy ấm áp, yêu thương và tiếng cười ',
     desc: 'Tình bạn mãi mãi như ngôi sao lấp lánh trên bầu trời ',
     btnYes: 'không đòi quà đâu <33 ',
     btnNo: 'quà nè 🤣🤣🤣 :3',
