@@ -19,3 +19,4 @@ const CONFIG = {
     messDesc: 'tuổi mới sinh nhật vui vẻ hạnh phúc cùng gia đình nhé.',
     btnAccept: '19 tuổi 🥰',
     messLink: 'https://www.facebook.com/profile.php?id=100068054562491',
+}
