@@ -1,9 +1,7 @@
 const CONFIG = {
     introTitle: 'cậu ah!',
-    introDesc: `_ Happy ღ Birthday _
-    -:¦:**.’*:•:*’**:¦:-
+    introDesc: `Happy ღ Birthday
     °Sinh °Nhật＊vui vẻ
-    -:¦:-•:*’*:•:*’*:•-:¦:-
     thằng bạn thân `,
     btnIntro: '💙chào chàng trai tháng 6💙',
     title: 'Chúc cậu
