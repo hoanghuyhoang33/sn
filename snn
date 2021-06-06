@@ -13,7 +13,7 @@ const CONFIG = {
     btnYes: 'không đòi quà đâu <33',
     btnNo: 'quà nè 🤣🤣🤣 :3',
     question:'trên thế giới hơn 7 tỉ người mà sao cậu lại sinh ngày 6-6 <333',
-    btnReply: 'Sending love to you <3',
+    btnReply: 'Sending love to you <333',
     reply: ' Mặc dù chúng ta có cách xa nhau nhưng mình luôn ở gần bên cậu mỗi khi cậu cần <3💞',
     mess: 'Chúc sinh nhật vui vẻ và hạnh phúc cậu yêu quý!!! ☺😘😘',
     messDesc: 'tuổi mới sinh nhật vui vẻ hạnh phúc cùng gia đình nhé.',
